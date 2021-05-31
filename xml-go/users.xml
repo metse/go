@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user type="admin">
+    <name>Metse</name>
+    <age>23</age>
+    <job>Software Developer</job>
+    <social>
+      <facebook>https://facebook.com</facebook>
+      <twitter>https://twitter.com</twitter>
+      <youtube>https://youtube.com</youtube>
+    </social>
+  </user>
+  <user type="reader">
+    <name>Raymond</name>
+    <age>60</age>
+    <job>Fugitive</job>
+    <social>
+      <facebook>https://facebook.com</facebook>
+      <twitter>https://twitter.com</twitter>
+      <youtube>https://youtube.com</youtube>
+    </social>
+  </user>
+</users>

@@ -1,0 +1,23 @@
+
+{
+  "users": [
+    {
+      "name": "Metse",
+      "job": "Developer",
+      "age": 23,
+      "social": {
+        "facebook": "https://facebook.com",
+        "twitter": "https://twitter.com"
+      }
+    },
+    {
+      "name": "Raymond",
+      "job": "Fugitive",
+      "age": 59,
+      "social": {
+        "facebook": "https://facebook.com",
+        "twitter": "https://twitter.com"
+      }
+    }
+  ]
+}
